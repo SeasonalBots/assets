@@ -1,8 +1,8 @@
 # assets
 This repository contains markdown files for our knowledge base, legal documents, and other assets. 
-# HalloweenBot Assets Repository
+# ChristmasBot Assets Repository
 
-Welcome to the HalloweenBot Assets repository! This repository contains markdown files for our knowledge base, legal documents, and other assets. We welcome contributions from the community to help improve our documentation and resources.
+Welcome to the ChristmasBot Assets repository! This repository contains markdown files for our knowledge base, legal documents, and other assets. We welcome contributions from the community to help improve our documentation and resources.
 
 ## Table of Contents
 
@@ -77,4 +77,4 @@ All of our knowledge base articles can be found at [markdown/kb](./markdown/kb/)
 
 ---
 
-Thank you for contributing to the HalloweenBot Assets repository! If you have any questions or need assistance, feel free to open an issue or contact us.
+Thank you for contributing to the ChristmasBot Assets repository! If you have any questions or need assistance, feel free to open an issue or contact us.
